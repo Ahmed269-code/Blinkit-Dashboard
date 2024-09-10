@@ -3,7 +3,7 @@ Built a Power BI dashboard for Blinkit to analyze sales, performance, and rating
 
 # Blinkit App Power BI Dashboard 🚀
 
-<img src="https://github.com/Ahmed269-code/Blinkit-Dashboard/blob/main/blinkit%20screen.png" alt="Blinkit Dashboard" width="900">
+<img src="https://github.com/Ahmed269-code/Blinkit-Dashboard/blob/main/blinkit%20screen.png" alt="Blinkit Dashboard" width="1000">
 
 
 Welcome to the Power BI dashboard analysis of the Blinkit app's sales, outlet performance, and customer ratings. This dashboard offers actionable insights that drive business strategy and decision-making.
