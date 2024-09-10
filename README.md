@@ -77,6 +77,6 @@ This dashboard provides deep insights into Blinkit's business performance, suppo
 
 # Blinkit App Power BI Dashboard 🚀
 
-![Blinkit Dashboard](images/blinkit_screen.png)
+![Blinkit Dashboard](https://github.com/Ahmed269-code/Blinkit-Dashboard/blob/main/blinkit%20screen.png)
 
 
