@@ -75,3 +75,8 @@ Data Sources: Blinkit sales, outlet, and customer ratings data
 
 This dashboard provides deep insights into Blinkit's business performance, supporting strategic decisions for outlet expansion, inventory management, and customer satisfaction enhancement.
 
+# Blinkit App Power BI Dashboard 🚀
+
+![Blinkit Dashboard](images/blinkit_screen.png)
+
+
