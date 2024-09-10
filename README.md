@@ -36,5 +36,7 @@ This dashboard provides deep insights into Blinkit's business performance, suppo
 
 # Technologies Used:
 Power BI: For data visualization and reporting
+
 Data Sources: Blinkit sales, outlet, and customer ratings data
+
 Dive into the data-driven insights with this powerful dashboard and discover opportunities for business growth.
